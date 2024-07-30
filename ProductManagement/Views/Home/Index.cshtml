@@ -1,0 +1,8 @@
+﻿@model ProductListViewModel
+<product-list>
+    @foreach (var item in Model.Products)
+    {
+        <product-item product="@item"></product-item>
+    }
+</product-list>
+<a asp-controller="Home" asp-action="Add">Add New Product</a>

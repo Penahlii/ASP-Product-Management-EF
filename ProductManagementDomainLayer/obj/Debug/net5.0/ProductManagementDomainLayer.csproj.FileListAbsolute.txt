@@ -1,0 +1,11 @@
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\bin\Debug\net5.0\ProductManagementDomainLayer.deps.json
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\bin\Debug\net5.0\ProductManagementDomainLayer.dll
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\bin\Debug\net5.0\ProductManagementDomainLayer.pdb
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.AssemblyInfo.cs
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.dll
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\refint\ProductManagementDomainLayer.dll
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ProductManagementDomainLayer.pdb
+C:\Users\asus\source\repos\ASPProductManagementEF\ProductManagementDomainLayer\obj\Debug\net5.0\ref\ProductManagementDomainLayer.dll
